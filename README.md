@@ -1,1 +1,1 @@
-# gitgyak
+gitgyakorlo repo
